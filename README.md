@@ -18,3 +18,6 @@
 
 ## Tarea 6
 - [Analisis de audio.](https://github.com/alanmejiaa/Procesamiento-y-Clasificacion-de-Datos-2024/blob/main/Tarea%20%236.ipynb)
+
+## PIA
+- [Analisis de texto.]([https://github.com/alanmejiaa/Procesamiento-y-Clasificacion-de-Datos-2024/blob/main/Tarea%20%236.ipynb](https://huggingface.co/spaces/AlanMejia/PIA_Analisis_Texto))
